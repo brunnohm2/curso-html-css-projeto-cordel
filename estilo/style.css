@@ -63,7 +63,8 @@ section.imagem > p{
     background-color: rgba(0, 0, 0, .2);
     padding: 15px;
     border-radius: 15px;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(4px);
+    box-shadow: 0px 0px 3px black;
 }
 section#img1{
     background-image: url('../imagens/background001.jpg');
